@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi, I'm Suraj Katwal 👋
 
-<!--
-**suraj1kc/suraj1kc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+A Digital Marketer from Nepal. Also, A WordPress Geek. I love to working on web performance.
 
-Here are some ideas to get you started:
+### I run
+- [WPLOGOUT](https://www.wplogout.com)
+- [Stunning Nepal](https://www.stunningnepal.com/)
+- [Share Calculator Nepal](https://sharecalculatornepal.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Where to find me
+- [Twitter](https://twitter.com/suraj1kc)
+- [Facebook](https://www.facebook.com/suraj1kc/)
