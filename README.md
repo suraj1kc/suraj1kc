@@ -1,7 +1,7 @@
 ## Hi, I'm Suraj Katwal 👋
 
 ### About me
-A Digital Marketer from Nepal. Also, A WordPress Geek. I love to working on web performance.
+A Digital Marketer from Nepal. Also, A WordPress Geek. I love to work on web performance.
 
 ### I run
 - [WPLogout](https://www.wplogout.com)
