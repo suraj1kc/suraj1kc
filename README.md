@@ -4,9 +4,9 @@
 A Digital Marketer from Nepal. Also, A WordPress Geek. I love to working on web performance.
 
 ### I run
-- [WPLOGOUT](https://www.wplogout.com)
-- [Stunning Nepal](https://www.stunningnepal.com/)
-- [Share Calculator Nepal](https://sharecalculatornepal.com/)
+- [WPLogout](https://www.wplogout.com){:target="_blank" rel="noopener"}
+- [Stunning Nepal](https://www.stunningnepal.com/){:target="_blank" rel="noopener"}
+- [Share Calculator Nepal](https://sharecalculatornepal.com/){:target="_blank" rel="noopener"}
 
 ### Where to find me
 - [Twitter](https://twitter.com/suraj1kc)
