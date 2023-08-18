@@ -10,4 +10,4 @@ A Digital Marketer from Nepal. Also, A WordPress Geek. I love to work on web per
 
 ### Where to find me
 - [Twitter](https://twitter.com/suraj1kc)
-- [Facebook](https://www.facebook.com/suraj1kc/)
+- [Linkedin](https://www.linkedin.com/in/suraj1kc/)
